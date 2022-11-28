@@ -13,16 +13,16 @@ __Matricula:__ *1756734*
 __Grupo:__ *062*
 
 * [Contenido del repositorio](https://github.com/erickblancosk8/PIA-l/blob/main/PIA.md#item1 "Contenido principal")
-* [Manejo de APIs](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Manejo de APIs")
-* [Scripting en Powershell](https://github.com/erickblancosk8/PIA-l/blob/main/ps.md "Scripting en Powershell")
-* [Scripting en Bash](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Scripting en Bash")
-* [Encoding & Decoding](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Encoding & Decoding")
+* [Manejo de APIs](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/APIS/api.md "Manejo de APIs")
+* [Scripting en Powershell](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/powershell/ps.md "Scripting en Powershell")
+* [Scripting en Bash](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/bash/bash.md "Scripting en Bash")
+* [Encoding & Decoding](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/encoding%26decoding/encode.md "Encoding & Decoding")
 * [Webscraping](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Webscraping")
-* [Nmap](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Nmap")
-* [FTP](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "FTP")
-* [Escáner de Puertos](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Escáner de Puertos")
-* [Envió de Correos](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Envió de Correos")
-* [Automatización de Tareas](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Automatización de Tareas")
+* [Nmap](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/nmap/nmap.md "Nmap")
+* [FTP](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/ftp/ftp.md "FTP")
+* [Escáner de Puertos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/scanport/puertos.md "Escáner de Puertos")
+* [Envió de Correos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/correos/mails.md "Envió de Correos")
+* [Automatización de Tareas](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/automatizacion/automat.md "Automatización de Tareas")
 
 
 
