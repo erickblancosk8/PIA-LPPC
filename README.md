@@ -25,17 +25,17 @@ __Grupo:__ *062*
 #
 ##### En los siguientes apartados podrás moverte hacia las secciones que desees consultar haciendo click en el enlace que desees para que seas redirigido a la sección en esté mismo repositorio.
 
-* [Contenido del repositorio](https://github.com/erickblancosk8/PIA-LPPC/blob/main/PIA.md "Contenido principal") :wink:
-* [Manejo de APIs](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/APIS/api.md "Manejo de APIs") :astonished:
-* [Scripting en Powershell](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/powershell/ps.md "Scripting en Powershell") 	:sunglasses:
-* [Scripting en Bash](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/bash/bash.md "Scripting en Bash") :metal:
-* [Encoding & Decoding](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/encoding%26decoding/encode.md "Encoding & Decoding") :innocent:
+* [Contenido del repositorio](https://github.com/erickblancosk8/PIA-LPPC "Contenido principal") :wink:
+* [Manejo de APIs](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/APIS "Manejo de APIs") :astonished:
+* [Scripting en Powershell](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/powershell "Scripting en Powershell") 	:sunglasses:
+* [Scripting en Bash](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/bash "Scripting en Bash") :metal:
+* [Encoding & Decoding](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/encoding%26decoding "Encoding & Decoding") :innocent:
 * [Webscraping](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/webscraping "Webscraping") :star:
-* [Nmap](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/nmap/nmap.md "Nmap") 	:+1:
-* [FTP](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/ftp/ftp.md "FTP") 	:v:
-* [Escáner de Puertos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/scanport/puertos.md "Escáner de Puertos") 	:satisfied:
-* [Envió de Correos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/correos/mails.md "Envió de Correos") :alien:
-* [Automatización de Tareas](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/automatizacion/automat.md "Automatización de Tareas") 	:smile:
+* [Nmap](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/nmap "Nmap") 	:+1:
+* [FTP](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/ftp "FTP") 	:v:
+* [Escáner de Puertos](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/scanport "Escáner de Puertos") 	:satisfied:
+* [Envió de Correos](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/correos "Envió de Correos") :alien:
+* [Automatización de Tareas](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/automatizacion "Automatización de Tareas") 	:smile:
 
 
 [Subir](#top)
