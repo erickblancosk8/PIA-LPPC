@@ -16,7 +16,7 @@ echo "Hoy es $(date)"
 echo "Usuarios actiales conectados, y sus procesos: "
 w
 ```
-![welcome](im2.png "welcome.sh")
+![welcome](/FILES/cont/im2.png "welcome.sh")
 
 ### 2. number
 ##### Lectura e impresion de variables en Bash
@@ -34,7 +34,7 @@ echo "Numero 1 - $n1"
 echo "Numero 2 - $n2"
 echo "Numero 3 - $n3"
 ```
-![number](im3.png "number.sh")
+![number](/FILES/cont/im3.png "number.sh")
 
 ###4. netdiscover
 ##### Con este script vizualizamos los detalles de nuestra red y visualiar los usuarios actuales conectados junto con sus procesos
@@ -67,7 +67,7 @@ done
 
 ```
 
-![netdiscover](im4.png "netdiscover.sh")
+![netdiscover](/FILES/cont/im4.png "netdiscover.sh")
 ###5. portscanv1
 ##### Con este script vizualizamos los puertos que tenemos abiertos en nuestro equipo Linux
 ``` bash
@@ -93,7 +93,7 @@ do
     echo $direccion_ip":"$port" is closed"
 done
 ```
-![portscanv1](im5.png "portscanv1.sh")
+![portscanv1](/FILES/cont/im5.png "portscanv1.sh")
 ###6. superscan
 ##### Con este script juntamos algunos de los scripts anteriores para realizar las tareas desde un solo script de una manera mas ordenada
 ``` bash
@@ -119,5 +119,5 @@ case $c in
 	4) echo "Bye!"; exit 0;;
 esac
 ```
-![superscan](im6.png "superscan.sh")
+![superscan](/FILES/cont/im6.png "superscan.sh")
 [Subir](#top)

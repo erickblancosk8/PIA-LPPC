@@ -2,7 +2,9 @@
 # Repositorio en GitHub Laboratorio de programación para ciberseguridad
 #### Este repositorio está elaborado en Markdown y contiene diferentes scripts que realizan tareas de ciberseguridad en distintos lenguajes como Python, Powershell y Bash.
  
- ## __Datos__ 
+ #
+ ![ciberseg](/FILES/cont/ima12.jpg "ima")
+ ## __Datos personales__ 
 ---
 __Materia:__ *Laboratorio de programación para ciberseguridad*
 
@@ -11,6 +13,16 @@ __Nombre:__ *Erick Daiel Blanco De La Garza*
 __Matricula:__ *1756734*
 
 __Grupo:__ *062*
+
+ ![ciberseg](/FILES/cont/green.jpg "ima")
+#
+##### Este es un repositorio que contiene una variedad de herramientas, codigos y codigós enfocados a la cuberseguridad, El manejo de estás herramientas abren un campo de posibilidades para aprender conceptos básicos de la ciberseguridad.
+---
+#
+##### Se han trabajado algunos enfoques practicos que ayudarán a cualquier administrador de sistemas en hacer su trabajo más sencillo al automatizar procesos y ejecutar scripts que pueden estar enfocados en algo en especifico para quien los profindice.
+---
+#
+##### En los siguientes apartados podrás moverte hacia las secciones que desees consultar haciendo click en el enlace que desees para que seas redirigido a la sección en esté mismo repositorio.
 
 * [Contenido del repositorio](https://github.com/erickblancosk8/PIA-l/blob/main/PIA.md#item1 "Contenido principal")
 * [Manejo de APIs](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/APIS/api.md "Manejo de APIs")
@@ -25,60 +37,4 @@ __Grupo:__ *062*
 * [Automatización de Tareas](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/automatizacion/automat.md "Automatización de Tareas")
 
 
-
-[Subir](#top)
- 
-<a name="item4"></a>
-### Contenido 4
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun
-[Subir](#top)
- 
-<a name="item5"></a>
-### Contenido 5
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
- 
-
- 
-[Subir](#top)
-<a name="item6"></a>
-### Contenido 6
-[[]]
- 
-[Subir](#top)
-<a name="item7"></a>
-### Contenido 7
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
- 
-[Subir](#top)
-<a name="item8"></a>
-### Contenido 8
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
- 
-[Subir](#top)
-<a name="item9"></a>
-### Contenido 9
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-[Subir](#top)
-<a name="item10"></a>
-### Contenido 10
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
- 
-[Subir](#top)
-<a name="item11"></a>
-### Contenido 11
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
- 
-[Subir](#top)
-<a name="item4"></a>
-### Contenido 4
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
- 
 [Subir](#top)

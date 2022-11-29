@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
 ```
 
-![pokemon1](poke1.png "poke1")
+![pokemon1](/FILES/cont/poke1.png "poke1")
 #
 #
 ---
@@ -49,7 +49,7 @@ if __name__ == '__main__':
 	url = 'http://pokeapi.co/api/v2-from/'
 	get_pokemons()
 ```
-![pokemon2](poke2.png "poke2")
+![pokemon2](/FILES/cont/poke2.png "poke2")
 #
 #
 ---
@@ -67,7 +67,7 @@ if __name__ == '__main__':
 	if response.status_code == 200:
 		print(response.content)
 ```
-![posteo](post.png "post")
+![posteo](/FILES/cont/post.png "post")
  #
 [Subir](#top)
 

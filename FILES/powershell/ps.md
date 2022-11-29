@@ -1,7 +1,7 @@
 
 # Scripting en Powershell  
 #
-__*Los siguientes scripts están hechos en Powershell y son herramientas que nos permitiran revisar información dentro de nuestro quipo Windows. Analizaremos ciertas centencias y estructuras como lo son los condicionales, ciclos de repetición y arreglos. Revisaremos los puertos que están abiertos o cerrados y alguna información de la red con un escaneo basico dentro de nuestra maquina.*__
+__*Los siguientes scripts están hechos en Powershell y son herramientas que nos permitiran revisar información dentro de nuestro quipo Windows. Analizaremos ciertas sentencias y estructuras como lo son los condicionales, ciclos de repetición y arreglos. Revisaremos los puertos que están abiertos o cerrados y alguna información de la red con un escaneo basico dentro de nuestra maquina.*__
 ### 2. scan_alivev2
 ##### Script en powershell para escanear la red en nuestro equipo windows 
 ```powershell
@@ -56,7 +56,7 @@ Get-Date
 #Fin del script
 #
 ```
-![scan_alivev2](psim.png "scan_alivev2.ps1")
+![scan_alivev2](/FILES/cont/psim.png "scan_alivev2.ps1")
 
 ---
 
@@ -92,6 +92,6 @@ Get-Date
 #
 #Fin del script
 ```
-![scan_portv2](psim1.png "scan_portv2.ps1")
+![scan_portv2](/FILES/cont/psim1.png "scan_portv2.ps1")
 
 [Subir](#top)
