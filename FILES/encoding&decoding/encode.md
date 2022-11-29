@@ -2,7 +2,7 @@
 
 #
 __*Los siguientes scripts están hechos en Python y son herramientas que nos permitiran manipular la información para realizar la codificación y decodificación de archivos en base64. Analizaremos ciertas sentencias y estructuras al igual que las librerias que nos permiten realiazar estos cifrados en Python.*__
-### 1. 
+### 1. encode_text
 ##### Script en Python que desencripta un mensaje de base64 mediante una llave de cifrado 
 ```python
 #Erick Daniel Blanco De La Garza

@@ -1,5 +1,5 @@
 
-#Scripting en Bash
+# Scripting en Bash
 #
 __*Los siguientes scripts están hechos en Bash y son herramientas que nos permitiran revisar algunas caracteristicas principales de Bash, como lo puede ser el entender y manejar las variables; tanto creadas por nosotros mismos o por el sistema, utilizaremos algunas estructuras de control como son los condicionales y tambien estructuras repetitivas como lo son los ciclos que están dispoibles en Linux. En estos scripts revisaremos que puertos están abiertos o cerrados dentro de nuestra maquina.*__
 
@@ -36,7 +36,7 @@ echo "Numero 3 - $n3"
 ```
 ![number](/FILES/cont/im3.png "number.sh")
 
-###4. netdiscover
+### 4. netdiscover
 ##### Con este script vizualizamos los detalles de nuestra red y visualiar los usuarios actuales conectados junto con sus procesos
 ```bash
 #!/bin/bash
@@ -68,7 +68,7 @@ done
 ```
 
 ![netdiscover](/FILES/cont/im4.png "netdiscover.sh")
-###5. portscanv1
+### 5. portscanv1
 ##### Con este script vizualizamos los puertos que tenemos abiertos en nuestro equipo Linux
 ``` bash
 #!/bin/bash
@@ -94,7 +94,7 @@ do
 done
 ```
 ![portscanv1](/FILES/cont/im5.png "portscanv1.sh")
-###6. superscan
+### 6. superscan
 ##### Con este script juntamos algunos de los scripts anteriores para realizar las tareas desde un solo script de una manera mas ordenada
 ``` bash
 #!/bin/bash

@@ -1,4 +1,5 @@
 <a name="top"></a>
+
 # Repositorio en GitHub Laboratorio de programación para ciberseguridad
 #### Este repositorio está elaborado en Markdown y contiene diferentes scripts que realizan tareas de ciberseguridad en distintos lenguajes como Python, Powershell y Bash.
  
@@ -24,17 +25,17 @@ __Grupo:__ *062*
 #
 ##### En los siguientes apartados podrás moverte hacia las secciones que desees consultar haciendo click en el enlace que desees para que seas redirigido a la sección en esté mismo repositorio.
 
-* [Contenido del repositorio](https://github.com/erickblancosk8/PIA-l/blob/main/PIA.md#item1 "Contenido principal")
-* [Manejo de APIs](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/APIS/api.md "Manejo de APIs")
-* [Scripting en Powershell](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/powershell/ps.md "Scripting en Powershell")
-* [Scripting en Bash](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/bash/bash.md "Scripting en Bash")
-* [Encoding & Decoding](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/encoding%26decoding/encode.md "Encoding & Decoding")
-* [Webscraping](https://github.com/erickblancosk8/PIA-l/blob/main/api.md "Webscraping")
-* [Nmap](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/nmap/nmap.md "Nmap")
-* [FTP](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/ftp/ftp.md "FTP")
-* [Escáner de Puertos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/scanport/puertos.md "Escáner de Puertos")
-* [Envió de Correos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/correos/mails.md "Envió de Correos")
-* [Automatización de Tareas](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/automatizacion/automat.md "Automatización de Tareas")
+* [Contenido del repositorio](https://github.com/erickblancosk8/PIA-LPPC/blob/main/PIA.md "Contenido principal") :wink:
+* [Manejo de APIs](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/APIS/api.md "Manejo de APIs") :astonished:
+* [Scripting en Powershell](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/powershell/ps.md "Scripting en Powershell") 	:sunglasses:
+* [Scripting en Bash](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/bash/bash.md "Scripting en Bash") :metal:
+* [Encoding & Decoding](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/encoding%26decoding/encode.md "Encoding & Decoding") :innocent:
+* [Webscraping](https://github.com/erickblancosk8/PIA-LPPC/tree/main/FILES/webscraping "Webscraping") :star:
+* [Nmap](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/nmap/nmap.md "Nmap") 	:+1:
+* [FTP](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/ftp/ftp.md "FTP") 	:v:
+* [Escáner de Puertos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/scanport/puertos.md "Escáner de Puertos") 	:satisfied:
+* [Envió de Correos](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/correos/mails.md "Envió de Correos") :alien:
+* [Automatización de Tareas](https://github.com/erickblancosk8/PIA-LPPC/blob/main/FILES/automatizacion/automat.md "Automatización de Tareas") 	:smile:
 
 
 [Subir](#top)
